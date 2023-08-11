@@ -1,0 +1,20 @@
+voice-fastapi-streamlit/
+├── app.py                  # Основний код Streamlit додатку
+├── main.py                 # Основний код FastAPI бекенду
+├── requirements.txt        # Список залежностей Python
+├── LICENSE                 # Ліцензійний файл
+├── README.md               # Опис проекту та інструкції
+├── .gitignore              # Файл для ігнорування файлів при комітах в Git
+├── templates/              # Директорія для HTML-шаблонів (для FastAPI)
+│   └── index.html
+├── static/                 # Директорія для статичних ресурсів (для FastAPI)
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── data/                   # Директорія для зберігання додаткових даних
+│   ├── voices/             # Можливо, зберігання синтезованих голосів
+│   ├── ...
+└── models/                 # Директорія для зберігання моделей ML (якщо є)
+    ├── voice_to_text/
+    ├── text_to_voice/
+    └── ...

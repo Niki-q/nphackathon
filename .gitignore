@@ -51,3 +51,6 @@ build/
 
 # FastAPI specific
 __pycache__/
+
+
+data/

@@ -1,0 +1,1 @@
+[2023-08-12 00:45:44] Recording started.[2023-08-12 00:45:54] Recording stopped.[2023-08-12 00:45:54] Sending recording to backend...[2023-08-12 00:45:54] Recording sent successfully to backend.
